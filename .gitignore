@@ -1,0 +1,5 @@
+.env
+/.coverage/
+/.idea/
+/.vscode/launch.json
+/target
